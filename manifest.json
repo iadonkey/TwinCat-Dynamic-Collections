@@ -4,6 +4,16 @@
   "files": [
     {
       "type": "Conceptual",
+      "source_relative_path": "conventions/versioning.md",
+      "output": {
+        ".html": {
+          "relative_path": "conventions/versioning.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
