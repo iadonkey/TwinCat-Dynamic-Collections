@@ -3,6 +3,19 @@
   "xrefmap": "xrefmap.yml",
   "files": [
     {
+      "type": "Toc",
+      "source_relative_path": "conventions/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "conventions/toc.html"
+        },
+        ".json": {
+          "relative_path": "conventions/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "conventions/versioning.md",
       "output": {
